@@ -13,7 +13,10 @@ const Home = () => {
 				gap: 5
 			}}
 		>
-			<img src="/TA-logo.png" style={{ maxHeight: '50%', maxWidth: '50%' }} alt="Techover" />
+			<img
+				src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowtechie.com%2Fwhat-is-spotify-live-and-how-does-it-work%2F&psig=AOvVaw1tveml1sP1tDMny1S2Cfr3&ust=1670754248084000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCn4Nvq7vsCFQAAAAAdAAAAABAE"
+				alt=""
+			/>
 			<Button
 				size="large"
 				variant="contained"
